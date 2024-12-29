@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+python-dateutil
+langchain
+openai
+tiktoken
